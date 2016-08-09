@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Ordersystem</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+</head>
+<style>
+</style>
+  <body>
+    <!-- header menu-->
+    <table style="background-color: #2a2a2a; font-size: 28px; width: 100%;">
+         <tr>
+              <td><img src="images/ChainWheelWhite.png"><a href="#"><u>Posnet Customers</u></a></td>
+              <td align="right"><a href="#">Home</a></td>
+              <td align="right"><a href="#">Product</a></td>
+              <td align="right"><a href="#">Technology</a></td>
+              <td align="right"><a href="#">FAQ</a></td>
+              <td align="right"><a href="#">Store</a></td>
+              <td align="right"><a href="#">About</a></td>
+              <td align="right"><a href="#">Contact</a></td>
+              <td align="right"><a href="#">&nbsp;</td>
+         </tr>
+    </table>
+    <!-- Background-->
+    <table>
+            <tr>
+                <td>
+                  <img src="images/posnetback.gif">
+                </td>
+                <td align="right">
+                  <img src="images/posnetback.gif">
+                </td>
+                <td align="right">
+                  <img src="images/posnetback.gif">
+                </td>
+            </tr>
+    </table>
+    <!-- Body Menu-->
+    <table class="table" style="background-color: #2a2a2a; font-size: 32px; width: 100%; color: white;">
+      <tr>
+        <td>Summary</td>
+        <td>Interprice</td>
+        <td>Pizza/Delivery</td>
+        <td>Call Center</td>
+        <td>Online Ordering</td>
+        <td>In The Cloud</td>
+        <td>Table/Quik Serve</td>
+        <td>Back Office</td>
+        <td>Testimonials</td>
+      </tr>
+      </table>
+    <!--4th Table-->
+    <table style="widht: 100%;" align="center">
+      <tr>
+        <td style="font-size: 62px;" ><img src="images/PosnetLogo.png"> - Make The Difference</td>
+      </tr>
+      <tr>
+        <td style="font-size: 46px;">The next Generation of Point of Sale</td>
+      </tr>
+      <tr>
+        <td>provides a Point of Sale system for large chains<br>
+          and individual stores, combining dependable real time<br> 
+          POS operation with a wide range of functions and reports, rapid deployment and<br>
+          low lifetime costs </td>
+        <td>Because the software is updated automatically, your<br>
+          POS software will never become obsolete.  technology<br>
+          allows for modifications and enhancements to be implemented<br>
+          without additional downloading or software installation</td>
+      </tr>
+    </table>
+    
+  </body> 
+</html>
